@@ -2,6 +2,12 @@
 
 A modern, full-stack AI content generation web application built with React + Vite (frontend) and FastAPI (backend).
 
+## 🎥 Demo Video
+Watch the full walkthrough of Promptly here:
+[![Promptly Demo Video](https://img.youtube.com/vi/H1Fn0TEsYCw/0.jpg)](https://www.youtube.com/watch?v=H1Fn0TEsYCw)
+
+Click the thumbnail above to watch the demo on YouTube.
+
 ## Features
 
 - Multi-platform content generation (General, Instagram, LinkedIn, YouTube Script)
